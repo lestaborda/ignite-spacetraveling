@@ -32,3 +32,7 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+#primsmic
+.slicemachine
+sm.json
